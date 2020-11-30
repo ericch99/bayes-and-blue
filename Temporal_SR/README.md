@@ -2,7 +2,7 @@
 
 
 ### Purpose 
-The goal of this task was to perform video frame interpolation. The original dataset has 6 hours of separation between consecutive images, but we investigate how we can use deep learning -- specifically, a method called "Super SloMo" -- to super-resolve images on the time axis and obtain a clearer picture of how weather patterns change on smaller timescales.
+The goal of this task was to perform video frame interpolation. The original dataset has 6 hours of separation between consecutive images, but we investigate how we can use deep learning -- specifically, a method called "[Super SloMo](https://arxiv.org/abs/1712.00080)" -- to super-resolve images on the time axis and obtain a clearer picture of how weather patterns change on smaller timescales.
 
 ### Notebooks
 
