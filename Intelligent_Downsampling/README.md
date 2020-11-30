@@ -1,5 +1,5 @@
 # Intelligent Downsampling
-We use [CycleGAN](https://arxiv.org/abs/1703.10593) to downsample high resolution images to low resolution images, which we then use as training data for our super-resolution task.
+We use [CycleGAN](https://arxiv.org/abs/1703.10593) to learn a realistic degradation model from high resolution images (ExtremeWeather dataset) to low resolution images (NCEP dataset) by treating it as an unpaired image-to-image style transfer task. 
 
 ### Remarks
 The notebook `downsampling.ipynb` contains examples of how to run the training and test code. 
