@@ -1,5 +1,5 @@
 # The Devil is in the Details: Spatial and Temporal Super-Resolution of Global Climate Models using Deep Learning
-The University of Michigan team ("Bayes and Blue") repository for ProjectX 2020, a research competition focused on the use of machine learning in climate modeling. 
+The University of Michigan team ("Bayes and Blue") repository for [ProjectX 2020](https://www.projectx2020.com/), a research competition focused on the use of machine learning in climate modeling. 
 
 ## Problem
 Physics-based global climate simulations are computationally expensive and limited to low spatial and temporal resolutions, making it difficult to predict and track highly localized extreme weather phenomena. To overcome these limitations, we present a novel application of super-resolution using deep learning to increase the resolution of global climate models in both space and time. In this project, we demonstrate the potential to reduce climate simulation computation and storage requirements by two orders of magnitude, as well as democratize relevant and actionable climate information for disaster responses.
