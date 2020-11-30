@@ -1,10 +1,10 @@
 ##### Notebooks
 
-baseline_interpolation: Generate bilinear interpolation baseline. 
+`baseline_interpolation`: Generate bilinear interpolation baseline. 
 
-superslomo: Run superslomo on custom dataset (need to specify fps per custom project). 
+`superslomo`: Run Super SloMo on custom dataset (need to specify fps per custom project). 
 
-similarity_score: Compute SSIM, PSNR, and VGG loss for image pairs. 
+`similarity_score`: Compute SSIM, PSNR, and VGG loss for image pairs. 
 
 ##### Sample Videos
 
