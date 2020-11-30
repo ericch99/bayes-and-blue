@@ -15,4 +15,4 @@ We adapt [SRGAN](https://github.com/tensorlayer/srgan) to perform 8x spatial sup
 ## Running the Code
 To train: `!python train_clim.py`<br/>
 To evaluate: `!python train_clim.py --mode=evaluate`<br/>
-To generate patches centered around extreme weather events (i.e bounding boxes): `!python train_clim.py --mode=generate`
+To generate patches centered around extreme weather events (i.e, bounding boxes): `!python train_clim.py --mode=generate`
