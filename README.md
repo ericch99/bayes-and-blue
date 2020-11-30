@@ -9,7 +9,7 @@ We used a subset of the [ExtremeWeather dataset](https://extremeweatherdataset.g
 
 The exact subset of ExtremeWeather can be found at [here](https://drive.google.com/drive/folders/13J8klWz6rRl6uUCpGzGl8nAl1wrOWH7-?usp=sharing).
 
-## Team Members:
+## Team Members
 ### Spatial Super-Resolution: 
 Eric Chen, Sanjeev Raja
 
