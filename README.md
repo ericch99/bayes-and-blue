@@ -14,7 +14,7 @@ We used a subset of the [ExtremeWeather dataset](https://extremeweatherdataset.g
 The exact subset of data we used for the project can be found at [here](https://drive.google.com/drive/folders/13J8klWz6rRl6uUCpGzGl8nAl1wrOWH7-?usp=sharing).
 
 ## Paper
-Our research paper, "The Devil is in the Details: Spatial and Temporal Super-Resolution of Global Climate Models using Deep Learning", can be found [here](https://drive.google.com/file/d/1fluN0UqeFqKmrHPsBsqlFiU4BUaLHLqP/view?usp=sharing)
+Our research paper, "The Devil is in the Details: Spatial and Temporal Super-Resolution of Global Climate Models using Deep Learning", can be found [here](https://drive.google.com/file/d/1fluN0UqeFqKmrHPsBsqlFiU4BUaLHLqP/view?usp=sharing).
 
 ## Team Members
 ### Spatial Super-Resolution: 
