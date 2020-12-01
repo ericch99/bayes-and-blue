@@ -1,5 +1,5 @@
 # The Devil is in the Details: Spatial and Temporal Super-Resolution of Global Climate Models using Deep Learning
-The University of Michigan team ("Bayes and Blue") repository for [ProjectX 2020](https://www.projectx2020.com/), a research competition focused on the use of machine learning in climate modeling. 
+The University of Michigan team ("Bayes and Blue") repository for [ProjectX 2020](https://www.projectx2020.com/), an undergraduate research competition focused on the use of machine learning in climate modeling. 
 
 <div align="center">
   <img alt='SRGAN results' src="https://github.com/ericch99/bayes-and-blue/blob/master/srgan-results.PNG?raw=true" width="40%">
